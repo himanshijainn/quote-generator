@@ -86,7 +86,7 @@ left: 27%;
 	backface-visibility: hidden;
 	box-shadow: 0rem 1.5rem 4rem rgba(0, 0, 0, 0.15);
 	border-radius: .5rem;
-	background-image: linear-gradient(to right bottom, #1a2980, #26d0ce);
+	background-image: linear-gradient(to right bottom, #6a6f94, #26d0ce);
 }
 
 .block__back {
